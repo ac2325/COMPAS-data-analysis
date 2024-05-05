@@ -1,0 +1,12 @@
+Akanksha Chatterjee
+SSH Essay
+Student Number: 14576767
+
+This file contains some simple analysis of the dataset from ProPublica including two years worth of COMPAS scores from the Broward County Sheriff’s Office in Florida. The dataset contains data for all offendents who were scored in 2013 and 2014 using COMPAS.
+
+The methodology of this notebook is inspired by the analysis done by ProPublica for their "Machine Bias" research project.
+
+Reference: 
+Link to ProPublica's article - https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/
+
+Link to the Description of the dataset collected and methodology: https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/
